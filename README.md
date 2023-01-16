@@ -1,4 +1,4 @@
-# Doctor Who Through the Ages"
+# Doctor Who Through the Ages
 An analysis of three metrics of the show for S01-S13
 
 
@@ -13,4 +13,4 @@ To illustrate these correlations, let me first introduce the 3 types of data in 
 - The values for UK viewership data and AI are taken from this site: https://www.doctorwhotv.co.uk/doctor-who-series-13-2021-22-uk-ratings-accumulator-95514.htm
 - As also explained there, the British Audience Appreciation Index (AI) is a score out of 100 which is used as an indicator of the public’s appreciation for a show. Over 90 is considered exceptional, 85 or over is excellent, 60 or less is poor, and less than 55 is very poor. 
 
-The analyis was written in R using RMarkdown (doctorwho.Rmd). To view the analysis, see doctorwho.html
+The analysis was written in R using RMarkdown [doctorwho.Rmd](doctorwho.Rmd). **To view the analysis, see [doctorwho.html](doctorwho.html).** The raw data can be viewed in [doctorwho.csv](doctorwho.csv).
