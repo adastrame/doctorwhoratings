@@ -117,7 +117,15 @@ There are also a number of different categorical variables in the data, which de
 
 
 ```{r}
-pairscor.fnc(df[,c("Showrunner", "Doctor", "Companion", "SeasonFactor")], col.points = colors12)
+pairscor.fnc(df[,c("Showrunner", "Writer", "Director", "DoctorActor")], col.points = colors12)
+```
+
+```{r}
+pairscor.fnc(df[,c("Doctor", "Companion", "SeasonFactor")], col.points = colors12)
+```
+
+```{r}
+pairscor.fnc(df[,c("Showrunner", "Doctor", "Companion", "SeasonFactor", "Writer", "Director")], col.points = colors12)
 ```
 
 What does this mean for the analysis? For one, regression is only minimally possible, as correlated variables should not be included in the same regression model (more on that later).
@@ -645,4 +653,47 @@ All of these charts were created using raw data. As the discussion about the dat
 There's also plenty of other data to look at in this dataset, such as directors and writers of individual episodes. However, I believe that this analysis has pretty clearly shown that the show became worse over time, and that in particular the showrunner had a great influence over the quality of the show.
 
 We can conclude that while a great show, it is only as good as its showrunner. It will be very interesting to observe future trends in the show, now that Russel T Davies will return, alongside a new incarnation of the Tenth Doctor (Fourteen), followed by the Fifteenth Doctor. 
- 
+
+
+# Bonus plots {.tabset}
+
+## Writers
+```{r}
+df %>% 
+  count(Writer)
+```
+
+
+```{r}
+ggplot(df, aes(x=reorder(Writer, IMDb.Rating), y=IMDb.Rating, fill=Writer)) + 
+    geom_boxplot(show.legend = FALSE) +
+    theme_bw() +
+    scale_fill_manual(values = wes_palette("FantasticFox1", 46, type = "continuous")) +
+    labs(x = "Season", y = "IMDb Rating", 
+         title="IMDb Ratings of Doctor Who: Season by Doctor", 
+         colour = "", shape = "") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 8),
+          text = element_text(size = 12),
+        strip.background =element_rect(fill="#f0f0f0")) 
+
+```
+
+## Directors
+```{r}
+df %>% 
+  count(Director)
+```
+
+
+```{r}
+ggplot(df, aes(x=reorder(Director, IMDb.Rating), y=IMDb.Rating, fill=Director)) + 
+    geom_boxplot(show.legend = FALSE) +
+    theme_bw() +
+    scale_fill_manual(values = wes_palette("FantasticFox1", 56, type = "continuous")) +
+    labs(x = "Season", y = "IMDb Rating", 
+         title="IMDb Ratings of Doctor Who: Season by Doctor", 
+         colour = "", shape = "") +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 8),
+          text = element_text(size = 12),
+        strip.background =element_rect(fill="#f0f0f0")) 
+```
