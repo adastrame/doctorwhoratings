@@ -1,0 +1,175 @@
+Season,Episode,Doctor,Companion,EpCode,Episode Title,Aired,Year,DoctorActor,Showrunner,Director,Writer,UK Viewers,AI,IMDb Rating,Trakt
+1,1,Nine,Rose,01.01,Rose,26 March 2005,2005,Christopher Eccleston,Russel T. Davies,Keith Boak,Russell T Davies,10.81,76,7.5,82
+1,2,Nine,Rose,01.02,The End of the World,2 April 2005,2005,Christopher Eccleston,Russel T. Davies,Euros Lyn,Russell T Davies,7.97,76,7.6,77
+1,3,Nine,Rose,01.03,The Unquiet Dead,9 April 2005,2005,Christopher Eccleston,Russel T. Davies,Euros Lyn,Mark Gatiss,8.86,80,7.6,76
+1,4,Nine,Rose,01.04,Aliens of London (1),16 April 2005,2005,Christopher Eccleston,Russel T. Davies,Keith Boak,Russell T Davies,7.63,82,7,75
+1,5,Nine,Rose,01.05,World War Three (2),23 April 2005,2005,Christopher Eccleston,Russel T. Davies,Keith Boak,Russell T Davies,7.98,81,7,75
+1,6,Nine,Rose,01.06,Dalek,30 April 2005,2005,Christopher Eccleston,Russel T. Davies,Joe Ahearne,Robert Shearman,8.63,84,8.7,82
+1,7,Nine,Rose,01.07,The Long Game,7 May 2005,2005,Christopher Eccleston,Russel T. Davies,Brian Grant,Russell T Davies,8.01,81,7.1,76
+1,8,Nine,Rose,01.08,Father's Day,14 May 2005,2005,Christopher Eccleston,Russel T. Davies,Joe Ahearne,Paul Cornell,8.06,83,8.4,80
+1,9,Nine,Rose,01.09,The Empty Child (1),21 May 2005,2005,Christopher Eccleston,Russel T. Davies,James Hawes,Steven Moffat,7.11,84,9.2,84
+1,10,Nine,Rose,01.10,The Doctor Dances (2),28 May 2005,2005,Christopher Eccleston,Russel T. Davies,James Hawes,Steven Moffat,6.86,85,9.1,85
+1,11,Nine,Rose,01.11,Boom Town,4 June 2005,2005,Christopher Eccleston,Russel T. Davies,Joe Ahearne,Russell T Davies,7.68,82,7.1,76
+1,12,Nine,Rose,01.12,Bad Wolf (1),11 June 2005,2005,Christopher Eccleston,Russel T. Davies,Joe Ahearne,Russell T Davies,6.81,86,8.7,84
+1,13,Nine,Rose,01.13,The Parting of the Ways (2),18 June 2005,2005,Christopher Eccleston,Russel T. Davies,Joe Ahearne,Russell T Davies,6.91,89,9.1,87
+2,0,Ten,Rose,02.00,The Christmas Invasion,25 December 2005,2005,David Tennant,Russel T. Davies,James Hawes,Russell T Davies,9.84,84,8.1,
+2,1,Ten,Rose,02.01,New Earth,15 April 2006,2006,David Tennant,Russel T. Davies,James Hawes,Russell T Davies,8.62,85,7.4,80
+2,2,Ten,Rose,02.02,Tooth and Claw,22 April 2006,2006,David Tennant,Russel T. Davies,Euros Lyn,Russell T Davies,9.24,83,7.8,79
+2,3,Ten,Rose,02.03,School Reunion,29 April 2006,2006,David Tennant,Russel T. Davies,James Hawes,Toby Whithouse,8.31,85,8.3,79
+2,4,Ten,Rose,02.04,The Girl in the Fireplace,6 May 2006,2006,David Tennant,Russel T. Davies,Euros Lyn,Steven Moffat,7.9,84,9.3,85
+2,5,Ten,Rose,02.05,Rise of the Cybermen (1),13 May 2006,2006,David Tennant,Russel T. Davies,Graeme Harper,Tom MacRae,9.22,86,7.8,79
+2,6,Ten,Rose,02.06,The Age of Steel (2),20 May 2006,2006,David Tennant,Russel T. Davies,Graeme Harper,Tom MacRae,7.63,86,7.9,80
+2,7,Ten,Rose,02.07,The Idiot's Lantern,27 May 2006,2006,David Tennant,Russel T. Davies,Euros Lyn,Mark Gatiss,6.76,84,6.7,76
+2,8,Ten,Rose,02.08,The Impossible Planet (1),3 June 2006,2006,David Tennant,Russel T. Davies,James Strong,Matt Jones,6.32,85,8.7,83
+2,9,Ten,Rose,02.09,The Satan Pit (2),10 June 2006,2006,David Tennant,Russel T. Davies,James Strong,Matt Jones,6.08,86,8.8,85
+2,10,Ten,Rose,02.10,Love & Monsters,17 June 2006,2006,David Tennant,Russel T. Davies,Dan Zeff,Russell T Davies,6.66,76,6.1,70
+2,11,Ten,Rose,02.11,Fear Her,24 June 2006,2006,David Tennant,Russel T. Davies,Euros Lyn,Matthew Graham,7.14,83,5.9,72
+2,12,Ten,Rose,02.12,Army of Ghosts (1),1 July 2006,2006,David Tennant,Russel T. Davies,Graeme Harper,Russell T Davies,8.19,86,8.5,83
+2,13,Ten,Rose,02.13,Doomsday (2),8 July 2006,2006,David Tennant,Russel T. Davies,Graeme Harper,Russell T Davies,8.22,89,9.3,89
+3,0,Ten,Donna,03.00,The Runaway Bride,25 December 2006,2006,David Tennant,Russel T. Davies,Euros Lyn,Russell T Davies,9.35,84,7.6,
+3,1,Ten,Martha,03.01,Smith and Jones,31 March 2007,2007,David Tennant,Russel T. Davies,Charles Palmer,Russell T Davies,8.71,88,8,80
+3,2,Ten,Martha,03.02,The Shakespeare Code,7 April 2007,2007,David Tennant,Russel T. Davies,Charles Palmer,Gareth Roberts,7.23,87,7.7,79
+3,3,Ten,Martha,03.03,Gridlock,14 April 2007,2007,David Tennant,Russel T. Davies,Richard Clark,Russell T Davies,8.41,85,8,80
+3,4,Ten,Martha,03.04,Daleks in Manhattan (1),21 April 2007,2007,David Tennant,Russel T. Davies,James Strong,Helen Raynor,6.69,86,7,75
+3,5,Ten,Martha,03.05,Evolution of the Daleks (2),28 April 2007,2007,David Tennant,Russel T. Davies,James Strong,Helen Raynor,6.97,85,6.9,76
+3,6,Ten,Martha,03.06,The Lazarus Experiment,5 May 2007,2007,David Tennant,Russel T. Davies,Richard Clark,Stephen Greenhorn,7.19,86,6.6,74
+3,7,Ten,Martha,03.07,42,19 May 2007,2007,David Tennant,Russel T. Davies,Graeme Harper,Chris Chibnall,7.41,85,7.4,77
+3,8,Ten,Martha,03.08,Human Nature (1),26 May 2007,2007,David Tennant,Russel T. Davies,Charles Palmer,Paul Cornell,7.74,86,9,82
+3,9,Ten,Martha,03.09,The Family of Blood (2),2 June 2007,2007,David Tennant,Russel T. Davies,Charles Palmer,Paul Cornell,7.21,86,9.2,84
+3,10,Ten,Martha,03.10,Blink,9 June 2007,2007,David Tennant,Russel T. Davies,Hettie MacDonald,Steven Moffat,6.62,87,9.8,93
+3,11,Ten,Martha,03.11,Utopia (1),16 June 2007,2007,David Tennant,Russel T. Davies,Graeme Harper,Russell T Davies,7.84,87,8.7,84
+3,12,Ten,Martha,03.12,The Sound of Drums (2),23 June 2007,2007,David Tennant,Russel T. Davies,Colin Teague,Russell T Davies,7.51,87,8.7,85
+3,13,Ten,Martha,03.13,Last of the Time Lords (3),30 June 2007,2007,David Tennant,Russel T. Davies,Colin Teague,Russell T Davies,8.61,88,8.4,85
+4,0,Ten,Guest,04.00,Voyage of the Damned,25 December 2007,2007,David Tennant,Russel T. Davies,James Strong,Russell T Davies,13.31,86,7.6,
+4,1,Ten,Donna,04.01,Partners in Crime,5 April 2008,2008,David Tennant,Russel T. Davies,James Strong,Russell T Davies,9.14,88,7.8,81
+4,2,Ten,Donna,04.02,The Fires of Pompeii,12 April 2008,2008,David Tennant,Russel T. Davies,Colin Teague,James Moran,9.04,87,8,81
+4,3,Ten,Donna,04.03,Planet of the Ood,19 April 2008,2008,David Tennant,Russel T. Davies,Graeme Harper,Keith Temple,7.5,87,8.1,80
+4,4,Ten,Donna,04.04,The Sontaran Stratagem (1),26 April 2008,2008,David Tennant,Russel T. Davies,Douglas Mackinnon,Helen Raynor,7.06,87,7.5,78
+4,5,Ten,Donna,04.05,The Poison Sky (2),3 May 2008,2008,David Tennant,Russel T. Davies,Douglas Mackinnon,Helen Raynor,6.53,88,7.5,80
+4,6,Ten,Donna,04.06,The Doctor's Daughter,10 May 2008,2008,David Tennant,Russel T. Davies,Alice Troughton,Stephen Greenhorn,7.33,88,7.6,81
+4,7,Ten,Donna,04.07,The Unicorn and the Wasp,17 May 2008,2008,David Tennant,Russel T. Davies,Graeme Harper,Gareth Roberts,8.41,86,7.7,79
+4,8,Ten,Donna,04.08,Silence in the Library (1),31 May 2008,2008,David Tennant,Russel T. Davies,Euros Lyn,Steven Moffat,6.27,89,9.4,87
+4,9,Ten,Donna,04.09,Forest of the Dead (2),7 June 2008,2008,David Tennant,Russel T. Davies,Euros Lyn,Steven Moffat,7.84,89,9.5,89
+4,10,Ten,Donna,04.10,Midnight,14 June 2008,2008,David Tennant,Russel T. Davies,Alice Troughton,Russell T Davies,8.05,86,9.1,84
+4,11,Ten,Donna,04.11,Turn Left,21 June 2008,2008,David Tennant,Russel T. Davies,Graeme Harper,Russell T Davies,8.09,88,8.9,87
+4,12,Ten,Donna,04.12,The Stolen Earth (1),28 June 2008,2008,David Tennant,Russel T. Davies,Graeme Harper,Russell T Davies,8.78,91,9.1,88
+4,13,Ten,Donna,04.13,Journey's End (2),5 July 2008,2008,David Tennant,Russel T. Davies,Graeme Harper,Russell T Davies,10.57,91,9.2,89
+4,14,Ten,Guest,04.14,The Next Doctor,25 December 2008,2008,David Tennant,Russel T. Davies,Andy Goddard,Russell T Davies,13.1,86,7.5,
+4,15,Ten,Guest,04.15,Planet of the Dead ,11 April 2009,2009,David Tennant,Russel T. Davies,James Strong,Russell T Davies & Gareth Roberts,9.75,88,7.4,
+4,16,Ten,Guest,04.16,The Waters of Mars,15 November 2009,2009,David Tennant,Russel T. Davies,Graeme Harper,Russell T Davies & Phil Ford,10.32,88,8.8,
+4,17,Ten,Rose,04.17,The End of Time (1),25 December 2009,2009,David Tennant,Russel T. Davies,Euros Lyn,Russell T Davies,12.04,87,8.2,
+4,18,Ten,Rose,04.18,The End of Time (2),1 January 2010,2010,David Tennant,Russel T. Davies,Euros Lyn,Russell T Davies,12.27,89,8.9,
+5,1,Eleven,Amy,05.01,The Eleventh Hour ,3 April 2010,2010,Matt Smith,Steven Moffat,Adam Smith,Steven Moffat,10.09,86,8.8,
+5,2,Eleven,Amy,05.02,The Beast Below ,10 April 2010,2010,Matt Smith,Steven Moffat,Andrew Gunn,Steven Moffat,8.42,86,7.6,
+5,3,Eleven,Amy,05.03,Victory of the Daleks ,17 April 2010,2010,Matt Smith,Steven Moffat,Andrew Gunn,Mark Gatiss,8.21,84,6.7,
+5,4,Eleven,Amy,05.04,The Time of Angels ,24 April 2010,2010,Matt Smith,Steven Moffat,Adam Smith,Steven Moffat,8.59,87,8.7,
+5,5,Eleven,Amy,05.05,Flesh and Stone ,1 May 2010,2010,Matt Smith,Steven Moffat,Adam Smith,Steven Moffat,8.5,86,8.6,
+5,6,Eleven,Amy & Rory,05.06,The Vampires of Venice ,8 May 2010,2010,Matt Smith,Steven Moffat,Jonny Campbell,Toby Whithouse,7.68,86,7,
+5,7,Eleven,Amy & Rory,05.07,Amy's Choice ,15 May 2010,2010,Matt Smith,Steven Moffat,Catherine Morshead,Simon Nye,7.55,84,8.2,
+5,8,Eleven,Amy & Rory,05.08,The Hungry Earth ,22 May 2010,2010,Matt Smith,Steven Moffat,Ashley Way,Chris Chibnall,6.49,86,7.3,
+5,9,Eleven,Amy & Rory,05.09,Cold Blood ,29 May 2010,2010,Matt Smith,Steven Moffat,Ashley Way,Chris Chibnall,7.49,85,7.4,
+5,10,Eleven,Amy & Rory,05.10,Vincent and the Doctor ,5 June 2010,2010,Matt Smith,Steven Moffat,Jonny Campbell,Richard Curtis,6.76,86,9.3,
+5,11,Eleven,Amy & Rory,05.11,The Lodger ,12 June 2010,2010,Matt Smith,Steven Moffat,Catherine Morshead,Gareth Roberts,6.44,87,8.2,
+5,12,Eleven,Amy & Rory,05.12,The Pandorica Opens ,19 June 2010,2010,Matt Smith,Steven Moffat,Toby Haynes,Steven Moffat,7.57,88,9.1,
+5,13,Eleven,Amy & Rory,05.13,The Big Bang ,26 June 2010,2010,Matt Smith,Steven Moffat,Toby Haynes,Steven Moffat,6.7,89,9.1,
+6,0,Eleven,Amy & Rory,06.00,A Christmas Carol,25 December 2010,2010,Matt Smith,Steven Moffat,Toby Haynes,Steven Moffat,12.11,83,8.5,
+6,1,Eleven,Amy & Rory,06.01,The Impossible Astronaut ,23 April 2011,2011,Matt Smith,Steven Moffat,Toby Haynes,Steven Moffat,8.86,88,8.9,
+6,2,Eleven,Amy & Rory,06.02,Day of the Moon ,30 April 2011,2011,Matt Smith,Steven Moffat,Toby Haynes,Steven Moffat,7.3,87,8.8,
+6,3,Eleven,Amy & Rory,06.03,The Curse of the Black Spot ,7 May 2011,2011,Matt Smith,Steven Moffat,Jeremy Webb,Stephen Thompson,7.85,86,6.7,
+6,4,Eleven,Amy & Rory,06.04,The Doctor's Wife ,14 May 2011,2011,Matt Smith,Steven Moffat,Richard Clark,Neil Gaiman,7.97,87,9,
+6,5,Eleven,Amy & Rory,06.05,The Rebel Flesh ,21 May 2011,2011,Matt Smith,Steven Moffat,Julian Simpson,Matthew Graham,7.35,85,7.2,
+6,6,Eleven,Amy & Rory,06.06,The Almost People ,28 May 2011,2011,Matt Smith,Steven Moffat,Julian Simpson,Matthew Graham,6.72,86,7.4,
+6,7,Eleven,Amy & Rory,06.07,A Good Man Goes to War ,4 June 2011,2011,Matt Smith,Steven Moffat,Peter Hoar,Steven Moffat,7.51,88,9.1,
+6,8,Eleven,Amy & Rory,06.08,Let's Kill Hitler ,27 August 2011,2011,Matt Smith,Steven Moffat,Richard Senior,Steven Moffat,8.1,85,8,
+6,9,Eleven,Amy & Rory,06.09,Night Terrors ,3 September 2011,2011,Matt Smith,Steven Moffat,Richard Clark,Mark Gatiss,7.07,86,7,
+6,10,Eleven,Amy & Rory,06.10,The Girl Who Waited ,10 September 2011,2011,Matt Smith,Steven Moffat,Nick Hurran,Tom MacRae,7.6,85,8.5,
+6,11,Eleven,Amy & Rory,06.11,The God Complex ,17 September 2011,2011,Matt Smith,Steven Moffat,Nick Hurran,Toby Whithouse,6.77,86,8.1,
+6,12,Eleven,Amy & Rory,06.12,Closing Time ,24 September 2011,2011,Matt Smith,Steven Moffat,Steve Hughes,Gareth Roberts,6.93,86,7.6,
+6,13,Eleven,Amy & Rory,06.13,The Wedding of River Song ,1 October 2011,2011,Matt Smith,Steven Moffat,Jeremy Webb,Steven Moffat,7.67,86,8.5,
+7,0,Eleven,Amy & Rory,07.00,"The Doctor, the Widow and the Wardrobe",25 December 2011,2011,Matt Smith,Steven Moffat,Farren Blackburn,Steven Moffat,10.77,84,7.2,
+7,1,Eleven,Amy & Rory,07.01,Asylum of the Daleks ,1 September 2012,2012,Matt Smith,Steven Moffat,Nick Hurran,Steven Moffat,8.33,89,8.6,
+7,2,Eleven,Amy & Rory,07.02,Dinosaurs on a Spaceship ,8 September 2012,2012,Matt Smith,Steven Moffat,Saul Metzstein,Chris Chibnall,7.57,87,7.4,
+7,3,Eleven,Amy & Rory,07.03,A Town Called Mercy ,15 September 2012,2012,Matt Smith,Steven Moffat,Saul Metzstein,Toby Whithouse,8.42,85,7.4,
+7,4,Eleven,Amy & Rory,07.04,The Power of Three ,22 September 2012,2012,Matt Smith,Steven Moffat,Douglas Mackinnon,Chris Chibnall,7.67,87,7.5,
+7,5,Eleven,Amy & Rory,07.05,The Angels Take Manhattan ,29 September 2012,2012,Matt Smith,Steven Moffat,Nick Hurran,Steven Moffat,7.82,88,9,
+7,6,Eleven,Clara,07.06,The Snowmen,25 December 2012,2012,Matt Smith,Steven Moffat,Saul Metzstein,Steven Moffat,9.87,87,8.4,
+7,7,Eleven,Clara,07.07,The Bells of Saint John ,30 March 2013,2013,Matt Smith,Steven Moffat,Colm McCarthy,Steven Moffat,8.44,87,8.4,
+7,8,Eleven,Clara,07.08,The Rings of Akhaten ,6 April 2013,2013,Matt Smith,Steven Moffat,Farren Blackburn,Neil Cross,7.45,84,7.9,
+7,9,Eleven,Clara,07.09,Cold War ,13 April 2013,2013,Matt Smith,Steven Moffat,Douglas Mackinnon,Mark Gatiss,7.37,84,7.4,
+7,10,Eleven,Clara,07.10,Hide ,20 April 2013,2013,Matt Smith,Steven Moffat,Jamie Payne,Neil Cross,6.61,85,7.2,
+7,11,Eleven,Clara,07.11,Journey to the Centre of the TARDIS ,27 April 2013,2013,Matt Smith,Steven Moffat,Mat King,Stephen Thompson,6.5,85,7.7,
+7,12,Eleven,Clara,07.12,The Crimson Horror ,4 May 2013,2013,Matt Smith,Steven Moffat,Saul Metzstein,Mark Gatiss,6.47,85,7.4,
+7,13,Eleven,Clara,07.13,Nightmare in Silver ,11 May 2013,2013,Matt Smith,Steven Moffat,Stephen Woolfenden,Neil Gaiman,6.64,84,7.3,
+7,14,Eleven,Clara,07.14,The Name of the Doctor ,18 May 2013,2013,Matt Smith,Steven Moffat,Saul Metzstein,Steven Moffat,7.45,88,7.3,
+7,15,Eleven,Clara,07.15,The Day of the Doctor,23 November 2013,2013,Matt Smith,Steven Moffat,Nick Hurran,Steven Moffat,12.8,88,9.4,
+8,0,Eleven,Clara,08.00,The Time of the Doctor,25 December 2013,2013,Matt Smith,Steven Moffat,Jamie Payne,Steven Moffat,11.14,83,8.4,
+8,1,Twelve,Clara,08.01,Deep Breath ,23 August 2014,2014,Peter Capaldi,Steven Moffat,Ben Wheatley,Steven Moffat,9.17,82,7.9,
+8,2,Twelve,Clara,08.02,Into the Dalek ,30 August 2014,2014,Peter Capaldi,Steven Moffat,Ben Wheatley,Phil Ford & Steven Moffat,7.29,84,7.7,
+8,3,Twelve,Clara,08.03,Robot of Sherwood ,6 September 2014,2014,Peter Capaldi,Steven Moffat,Paul Murphy,Mark Gatiss,7.28,82,7,
+8,4,Twelve,Clara,08.04,Listen ,13 September 2014,2014,Peter Capaldi,Steven Moffat,Douglas Mackinnon,Steven Moffat,7.01,82,8.9,
+8,5,Twelve,Clara,08.05,Time Heist ,20 September 2014,2014,Peter Capaldi,Steven Moffat,Douglas Mackinnon,Stephen Thompson & Steven Moffat,6.99,84,7.9,
+8,6,Twelve,Clara,08.06,The Caretaker ,27 September 2014,2014,Peter Capaldi,Steven Moffat,Paul Murphy,Gareth Roberts & Steven Moffat,6.82,83,7.3,
+8,7,Twelve,Clara,08.07,Kill the Moon ,4 October 2014,2014,Peter Capaldi,Steven Moffat,Paul Wilmshurst,Peter Harness,6.91,82,6.9,
+8,8,Twelve,Clara,08.08,Mummy on the Orient Express ,11 October 2014,2014,Peter Capaldi,Steven Moffat,Paul Wilmshurst,Jamie Mathieson,7.11,85,8.5,
+8,9,Twelve,Clara,08.09,Flatline ,18 October 2014,2014,Peter Capaldi,Steven Moffat,Douglas Mackinnon,Jamie Mathieson,6.71,85,8.5,
+8,10,Twelve,Clara,08.10,In the Forest of the Night ,25 October 2014,2014,Peter Capaldi,Steven Moffat,Sheree Folkson,Frank Cottrell-Boyce,6.92,83,6,
+8,11,Twelve,Clara,08.11,Dark Water ,1 November 2014,2014,Peter Capaldi,Steven Moffat,Rachel Talalay,Steven Moffat,7.34,85,8.6,
+8,12,Twelve,Clara,08.12,Death in Heaven ,8 November 2014,2014,Peter Capaldi,Steven Moffat,Rachel Talalay,Steven Moffat,7.6,83,7.9,
+9,0,Twelve,Clara,09.00,Last Christmas,25 December 2014,2014,Peter Capaldi,Steven Moffat,Paul Wilmshurst,Steven Moffat,8.28,82,8.3,
+9,1,Twelve,Clara,09.01,The Magician's Apprentice ,19 September 2015,2015,Peter Capaldi,Steven Moffat,Hettie MacDonald,Steven Moffat,6.54,84,8.5,
+9,2,Twelve,Clara,09.02,The Witch's Familiar ,26 September 2015,2015,Peter Capaldi,Steven Moffat,Hettie MacDonald,Steven Moffat,5.71,83,8.5,
+9,3,Twelve,Clara,09.03,Under the Lake ,3 October 2015,2015,Peter Capaldi,Steven Moffat,Daniel O'Hara,Toby Whithouse,5.63,84,8.3,
+9,4,Twelve,Clara,09.04,Before the Flood ,10 October 2015,2015,Peter Capaldi,Steven Moffat,Daniel O'Hara,Toby Whithouse,6.05,83,8.1,
+9,5,Twelve,Clara,09.05,The Girl Who Died ,17 October 2015,2015,Peter Capaldi,Steven Moffat,Ed Bazalgette,Jamie Mathieson and Steven Moffat,6.56,82,7.5,
+9,6,Twelve,Clara,09.06,The Woman Who Lived ,24 October 2015,2015,Peter Capaldi,Steven Moffat,Ed Bazalgette,Catherine Tregenna,6.11,81,7.5,
+9,7,Twelve,Clara,09.07,The Zygon Invasion ,31 October 2015,2015,Peter Capaldi,Steven Moffat,Daniel Nettheim,Peter Harness,5.76,82,7.8,
+9,8,Twelve,Clara,09.08,The Zygon Inversion ,7 November 2015,2015,Peter Capaldi,Steven Moffat,Daniel Nettheim,Peter Harness and Steven Moffat,6.03,84,8.5,
+9,9,Twelve,Clara,09.09,Sleep No More ,14 November 2015,2015,Peter Capaldi,Steven Moffat,Justin Molotnikov,Mark Gatiss,5.61,78,5.8,
+9,10,Twelve,Clara,09.10,Face the Raven ,21 November 2015,2015,Peter Capaldi,Steven Moffat,Justin Molotnikov,Sarah Dollard,6.05,84,8.5,
+9,11,Twelve,Clara,09.11,Heaven Sent ,28 November 2015,2015,Peter Capaldi,Steven Moffat,Rachel Talalay,Steven Moffat,6.19,80,9.6,
+9,12,Twelve,Clara,09.12,Hell Bent (60 min),5 December 2015,2015,Peter Capaldi,Steven Moffat,Rachel Talalay,Steven Moffat,6.17,82,8.6,
+9,13,Twelve,Guest,09.13,The Husbands of River Song,25 December 2015,2015,Peter Capaldi,Steven Moffat,Douglas Mackinnon,Steven Moffat,7.69,82,8.5,
+10,0,Twelve,Guest,10.00,The Return of Doctor Mysterio,25 December 2016,2016,Peter Capaldi,Steven Moffat,Ed Bazalgette,Steven Moffat,7.83,82,7.4,
+10,1,Twelve,Bill,10.01,The Pilot,15 April 2017,2017,Peter Capaldi,Steven Moffat,Lawrence Gough,Steven Moffat,6.68,83,7.9,
+10,2,Twelve,Bill,10.02,Smile,22 April 2017,2017,Peter Capaldi,Steven Moffat,Lawrence Gough,Frank Cottrell-Boyce,5.98,83,7.2,
+10,3,Twelve,Bill,10.03,Thin Ice,29 April 2017,2017,Peter Capaldi,Steven Moffat,Bill Anderson,Sarah Dollard,5.61,84,7.3,
+10,4,Twelve,Bill,10.04,Knock Knock,6 May 2017,2017,Peter Capaldi,Steven Moffat,Bill Anderson,Mike Bartlett,5.73,83,7.4,
+10,5,Twelve,Bill,10.05,Oxygen,13 May 2017,2017,Peter Capaldi,Steven Moffat,Charles Palmer,Jamie Mathieson,5.27,83,8.1,
+10,6,Twelve,Bill,10.06,Extremis,20 May 2017,2017,Peter Capaldi,Steven Moffat,Daniel Nettheim,Steven Moffat,5.53,82,8.4,
+10,7,Twelve,Bill,10.07,The Pyramid at the End of the World,27 May 2017,2017,Peter Capaldi,Steven Moffat,Daniel Nettheim,Peter Harness and Steven Moffat,5.79,82,7.6,
+10,8,Twelve,Bill,10.08,The Lie of the Land,3 June 2017,2017,Peter Capaldi,Steven Moffat,Wayne Yip,Toby Whithouse,4.82,82,7.1,
+10,9,Twelve,Bill,10.09,Empress of Mars,10 June 2017,2017,Peter Capaldi,Steven Moffat,Wayne Yip,Mark Gatiss,5.02,83,7,
+10,10,Twelve,Bill,10.10,The Eaters of Light,17 June 2017,2017,Peter Capaldi,Steven Moffat,Charles Palmer,Rona Munro,4.73,81,6.9,
+10,11,Twelve,Bill,10.11,World Enough and Time (1),24 June 2017,2017,Peter Capaldi,Steven Moffat,Rachel Talalay,Steven Moffat,5,85,9.2,
+10,12,Twelve,Bill,10.12,The Doctor Falls (2),1 July 2017,2017,Peter Capaldi,Steven Moffat,Rachel Talalay,Steven Moffat,5.3,83,9,
+11,0,Twelve,Bill,11.00,Twice Upon a Time,25 December 2017,2017,Peter Capaldi,Steven Moffat,Rachel Talalay,Steven Moffat,7.92,81,8.1,
+11,1,Thirteen,"Yaz, Ryan & Graham",11.01,The Woman Who Fell to Earth,7 October 2018,2018,Jodie Whittaker,Chris Chibnall,Jamie Childs,Chris Chibnall,10.96,83,6.9,
+11,2,Thirteen,"Yaz, Ryan & Graham",11.02,The Ghost Monument,14 October 2018,2018,Jodie Whittaker,Chris Chibnall,Mark Tonderai,Chris Chibnall,9,82,6,
+11,3,Thirteen,"Yaz, Ryan & Graham",11.03,Rosa,21 October 2018,2018,Jodie Whittaker,Chris Chibnall,Mark Tonderai,Malorie Blackman and Chris Chibnall,8.41,83,7,
+11,4,Thirteen,"Yaz, Ryan & Graham",11.04,Arachnids in the UK,28 October 2018,2018,Jodie Whittaker,Chris Chibnall,Sallie Aprahamian,Chris Chibnall,8.22,83,5,
+11,5,Thirteen,"Yaz, Ryan & Graham",11.05,The Tsuranga Conundrum,4 November 2018,2018,Jodie Whittaker,Chris Chibnall,Jennifer Perrott,Chris Chibnall,7.76,79,4.9,
+11,6,Thirteen,"Yaz, Ryan & Graham",11.06,Demons of the Punjab,11 November 2018,2018,Jodie Whittaker,Chris Chibnall,Jamie Childs,Vinay Patel,7.48,80,6.4,
+11,7,Thirteen,"Yaz, Ryan & Graham",11.07,Kerblam!,18 November 2018,2018,Jodie Whittaker,Chris Chibnall,Jennifer Perrott,Pete McTighe,7.46,81,6.2,
+11,8,Thirteen,"Yaz, Ryan & Graham",11.08,The Witchfinders,25 November 2018,2018,Jodie Whittaker,Chris Chibnall,Sallie Aprahamian,Joy Wilkinson,7.21,81,5.6,
+11,9,Thirteen,"Yaz, Ryan & Graham",11.09,It Takes You Away,2 December 2018,2018,Jodie Whittaker,Chris Chibnall,Jamie Childs,Ed Hime,6.42,80,6.1,
+11,10,Thirteen,"Yaz, Ryan & Graham",11.10,The Battle of Ranskoor Av Kolos,9 December 2018,2018,Jodie Whittaker,Chris Chibnall,Jamie Childs,Chris Chibnall,6.65,79,5.2,
+11,11,Thirteen,"Yaz, Ryan & Graham",11.11,Resolution,1 January 2019,2019,Jodie Whittaker,Chris Chibnall,Wayne Yip,Chris Chibnall,7.13,80,5.7,
+12,1,Thirteen,"Yaz, Ryan & Graham",12.01,Spyfall (1),1 January 2020,2020,Jodie Whittaker,Chris Chibnall,Jamie Magnus Stone,Chris Chibnall,6.89,82,6.7,
+12,2,Thirteen,"Yaz, Ryan & Graham",12.02,Spyfall (2),5 January 2020,2020,Jodie Whittaker,Chris Chibnall,Lee Haven Jones,Chris Chibnall,6.07,82,6.5,
+12,3,Thirteen,"Yaz, Ryan & Graham",12.03,Orphan 55,12 January 2020,2020,Jodie Whittaker,Chris Chibnall,Lee Haven Jones,Ed Hime,5.38,77,4.1,
+12,4,Thirteen,"Yaz, Ryan & Graham",12.04,Nikola Tesla's Night of Terror,19 January 2020,2020,Jodie Whittaker,Chris Chibnall,Nida Manzoor,Nina Metivier,5.2,79,6.6,
+12,5,Thirteen,"Yaz, Ryan & Graham",12.05,Fugitive of the Judoon,26 January 2020,2020,Jodie Whittaker,Chris Chibnall,Nida Manzoor,Vinay Patel and Chris Chibnall,5.57,83,7.7,
+12,6,Thirteen,"Yaz, Ryan & Graham",12.06,Praxeus,2 February 2020,2020,Jodie Whittaker,Chris Chibnall,Jamie Magnus Stone,Pete McTighe and Chris Chibnall,5.22,78,5.2,
+12,7,Thirteen,"Yaz, Ryan & Graham",12.07,Can You Hear Me?,9 February 2020,2020,Jodie Whittaker,Chris Chibnall,Emma Sullivan,Charlene James and Chris Chibnall,4.9,78,5.8,
+12,8,Thirteen,"Yaz, Ryan & Graham",12.08,The Haunting of Villa Diodati,16 February 2020,2020,Jodie Whittaker,Chris Chibnall,Emma Sullivan,Maxine Alderton,5.07,80,7.3,
+12,9,Thirteen,"Yaz, Ryan & Graham",12.09,Ascension of the Cybermen,23 February 2020,2020,Jodie Whittaker,Chris Chibnall,Jamie Magnus Stone,Chris Chibnall,4.99,81,7,
+12,10,Thirteen,"Yaz, Ryan & Graham",12.10,The Timeless Children ,1 March 2020,2020,Jodie Whittaker,Chris Chibnall,Jamie Magnus Stone,Chris Chibnall,4.69,82,5.6,
+13,1,Thirteen,Yaz & Dan,13.01,Flux: Chapter One - The Halloween Apocalypse,31 October 2021,2021,Jodie Whittaker,Chris Chibnall,Jamie Magnus Stone,Chris Chibnall,5.69,76,6.8,
+13,2,Thirteen,Yaz & Dan,13.02,Flux: Chapter Two - War of the Sontarans,7 November 2021,2021,Jodie Whittaker,Chris Chibnall,Jamie Magnus Stone,Chris Chibnall,5.02,77,7.1,
+13,3,Thirteen,Yaz & Dan,13.03,"Flux: Chapter Three - Once, Upon Time",14 November 2021,2021,Jodie Whittaker,Chris Chibnall,Azhur Saleem,Chris Chibnall,4.59,75,6,
+13,4,Thirteen,Yaz & Dan,13.04,Flux: Chapter Four - Village of the Angels,21 November 2021,2021,Jodie Whittaker,Chris Chibnall,Jamie Magnus Stone,Chris Chibnall and Maxine Alderton,4.47,79,7.8,
+13,5,Thirteen,Yaz & Dan,13.05,Flux: Chapter Five - Survivors of the Flux,28 November 2021,2021,Jodie Whittaker,Chris Chibnall,Azhur Saleem,Chris Chibnall,4.83,77,6.2,
+13,6,Thirteen,Yaz & Dan,13.06,Flux: Chapter Six - The Vanquishers,5 December 2021,2021,Jodie Whittaker,Chris Chibnall,Azhur Saleem,Chris Chibnall,4.53,76,5.4,
+13,7,Thirteen,Yaz & Dan,13.07,Eve of the Daleks,1 January 2022,2022,Jodie Whittaker,Chris Chibnall,Anetta Laufer,Chris Chibnall,4.3,77,6.7,
+13,8,Thirteen,Yaz & Dan,13.08,Legend of the Sea Devils,17 April 2022,2022,Jodie Whittaker,Chris Chibnall,Haolu Wang,Ella Road and Chris Chibnall,3.34,76,4.6,
+13,9,Thirteen,Guest,13.09,The Power of the Doctor,23 October 2022,2022,Jodie Whittaker,Chris Chibnall,Jamie Magnus Stone,Chris Chibnall,5.1,82,7.7,
