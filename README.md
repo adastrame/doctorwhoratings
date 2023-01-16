@@ -2,7 +2,7 @@
 An analysis of three metrics of the show for S01-S13
 
 - The analysis was written in R using RMarkdown [doctorwho.Rmd](doctorwho.Rmd). 
-- **To view the analysis, see [doctorwho.html](doctorwho.html). ** The contents are identical to the README.md, but easier to navigate due to tabsets. 
+- **To view the analysis, see [doctorwho.html](doctorwho.html).** The contents are identical to the README.md, but easier to navigate due to tabsets. 
 - The raw data can be viewed in [doctorwho.csv](doctorwho.csv).
 
 # What can data tell us about quality of Doctor Who (2005)?
