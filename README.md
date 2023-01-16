@@ -2,7 +2,7 @@
 An analysis of three metrics of the show for S01-S13
 
 - The analysis was written in R using RMarkdown [doctorwho.Rmd](doctorwho.Rmd). 
-- **To view the analysis, see [doctorwho.html](doctorwho.html).**
+- **To view the analysis, see [doctorwho.html](doctorwho.html). ** The contents are identical to the README.md, but easier to navigate due to tabsets. 
 - The raw data can be viewed in [doctorwho.csv](doctorwho.csv).
 
 # What can data tell us about quality of Doctor Who (2005)?
@@ -77,7 +77,7 @@ For this, we can look at boxplots of this data. For this, we first remove two da
 dfboxplot <- subset(df, EpCode != "11.00" & EpCode != "08.00" )
 ```
 
-## Aggregated Boxplots {.tabset}
+## Aggregated Boxplots
 Then we can plot the data as follows for the 3 metrics. We can see that the `IMDb ratings` took a notable dip in S11-13, while in earlier seasons they were more favorable. `UK viewership` shows a slightly different picture - it was highest for S04, and  notably less for the Twelfth and Thirteenths Doctors (even though in their respective first seasons, viewers were still enthusiastic). The `AI` shows the show being at an all-time high during the Tenth Doctor, followed by the Eleventh. The Thirteeth Doctor with S13 is very far behind.  
 
 ### IMDb Rating 
@@ -128,7 +128,7 @@ ggplot(dfboxplot, aes(x=SeasonFactor, y=AI, fill=Doctor)) +
 ```
 ![image](doctorwhoplots/box_seasons_ai.png)
 
-## Plots by individual episode for each season {.tabset}
+## Plots by individual episode for each season
 As any Doctor Who (2005) fan knows, the quality of the show can fluctuate intensely even within seasons (facets). For example, while the Tenth Doctor appears to be the all-time favorite, even during his tenure there were some commonly agreed upon very-very-bad episodes. Points are colored shapes for each Doctor, while the trendlines show an allover trend in ratings for each season.
 
 Plotting `IMDb ratings` of all episodes over all 13 seasons illustrates this nicely - for example, *Fear Her* and *Love and Monsters* are at the lower end of the scale in S02, whereas the show's highest ever rated episode *Blink* towers above everything else in S03. 
@@ -240,7 +240,7 @@ The Thirteeth's companions, are less lucky, as they appeared in the least popula
 
 Personally, I would have expected Bill to be higher on the list, and I believe she is one of the most under-appreciated companions and had a great dynamic with Twelve. 
 
-## Aggregated Boxplots {.tabset}
+## Aggregated Boxplots
 
 The boxplots visualize the above data, and highlight some notable mismatches. For example, while the `IMDb ratings` for *Yaz & Dan* are more favorable, the `AI` puts them all the way at the bottom. 
 
@@ -292,7 +292,7 @@ ggplot(dfcorecompanions, aes(x=Doctor, y=AI, fill=Companion)) +
 ```
 ![image](doctorwhoplots/box_doctors_ai.png)
 
-## Plot by individual episode  {.tabset}
+## Plot by individual episode 
 How does this look when plotting all individual episodes? The following plots illustrate the relationship between the different Doctors (facets) with their companions (colored shapes). Additionally, the trendlines illustrate the allover trend in ratings for each Doctor. 
 
 The Tenth Doctor continues to be the most appreciated for all metrics, with increasing popularity once Donna entered the show. 
@@ -431,7 +431,7 @@ df %>%
 |Steven Moffat    |    7.963095|   7.242381| 84.42857|
 |Chris Chibnall   |    6.193333|   6.085000| 79.60000|
 
-## Aggregated Boxplots {.tabset}
+## Aggregated Boxplots
 Plotting the above values shows that Russel T. Davies and Steven Moffat are more or less on the same level, with Ten and Eleven being the most popular. Chris Chibnall and Thirteen are very far behind. 
 
 ### IMDb Rating 
@@ -482,7 +482,7 @@ ggplot(df, aes(x=Showrunner, y=AI, fill=Doctor)) +
 ```
 ![image](doctorwhoplots/box_showrunners_ai.png)
 
-## Plot by individual episodes {.tabset}
+## Plot by individual episodes
 Plotting each episode individually by showrunner shows a very similar picture to the above plots. Again we can observe that during Russel T. Davies' tenure, the show improved in quality and viewership especially as Donna joined in S04. 
 
 Steven Moffat's reign shows `IMDb ratings` staying more or less at the same level, while the `UK viewership` declined somewhat in his later seasons. 
